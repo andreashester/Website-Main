@@ -1,6 +1,4 @@
-# Website-Main
-Main Website Repository 
+# Website-Demo-\
 
-
-#May 8th 2024 
-Initilized repo with files from vs code
+page_background.png
+me-rod.jpg
